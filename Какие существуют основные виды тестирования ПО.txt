@@ -1,0 +1,33 @@
+Какие существуют основные виды тестирования ПО? 
+
+1. Функциональные виды («Что?» - проверяет весь функционал продукта):
+а) Функциональное тестирование (Functional testing)
+б) Тестирование взаимодействия (Interoperability testing)
+
+2. Нефункциональное («Как?»):
+а) Производительности (Performance)
+ Тестирование емкости/способностей (Capacity testing)
+ Стрессовое (Stress testing)
+ Нагрузочное (Load testing)
+ Объемное тестирование (Volume testing)
+ Выносливости (Soak/Endurance testing)
+ Стабильности/надежности (Stability / Reliability testing)
+ Шиповое (Spike)
+ Отказоустойчивости (Stability testing)
+ Масштабируемости (Scalability test)
+б) Отказ и восстановление (Failover and Recovery testing)
+в) Удобство пользования (Usability testing)
+г) Тестирование установки (Installation testing)
+д) Тестирование безопасности (Security and Access Control testing)
+е) Конфигурационное (Configuration testing)
+
+3. Связанное с изменениями:
+а) Регрессионное (Regression testing)
+б) Санитарное (Sanity testing)
+в) Дымовое (Smoke testing)
+г) Тестирование сборки (Build Verification testing)
+
+
+В разных источниках предлагается разный взгляд.
+
+
